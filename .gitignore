@@ -152,3 +152,7 @@ SegMunich/util/__pycache__/pos_embed.cpython-39.pyc
 SegMunich/util/__pycache__/video_vit.cpython-38.pyc
 SegMunich/util/__pycache__/video_vit.cpython-39.pyc
 SegMunich/util/__pycache__/video_vit.cpython-310.pyc
+finetune_fmow_temporal.pth
+fmow_finetune.pth
+fmow_pretrain.pth
+pretrain_fmow_temporal.pth
